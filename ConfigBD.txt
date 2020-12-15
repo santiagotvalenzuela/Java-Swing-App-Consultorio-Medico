@@ -1,0 +1,6 @@
+usuario=admin
+password=admin
+nombreBase=DatosTurnos
+mongoJDBC=mongodb+srv://
+urlBD=@cluster0-k7vny.mongodb.net/
+urlBDFin=test?retryWrites=true&w=majority
